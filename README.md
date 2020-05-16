@@ -23,6 +23,15 @@ It's built on V8, Rust, and Tokio.
 
 ## Install and run HelloWorld
 
+### Windows
+
+run the below commands from the powershell to install deno
+
+*Using Chocolatey (Windows):*
+```
+choco install deno
+```
+
 Run Helloworld.ts
 ```
 > deno run --allow-net helloworld.ts
@@ -40,3 +49,4 @@ Custom TypeScript Compiler Options (Experimental)
 ```
 deno run -c tsconfig.json helloworld.ts
 ```
+
