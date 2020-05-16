@@ -50,3 +50,6 @@ Custom TypeScript Compiler Options (Experimental)
 deno run -c tsconfig.json helloworld.ts
 ```
 
+## CRUD-REST sample
+Samples on the CRUD operation https://github.com/uttesh/deno/tree/master/crud-rest
+
