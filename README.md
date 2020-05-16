@@ -1,4 +1,4 @@
-# Deno Samples
+# Deno samples
 <p align="center">
 <img src="https://denolib.github.io/high-res-deno-logo/deno_hr_circle.png" alt="logo" style="margin-left:20%" width="300"/>
 </p>
