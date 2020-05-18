@@ -1,4 +1,4 @@
-import {Router } from 'https://deno.land/x/oak/mod.ts'
+import {Router} from './modules.ts'
 import { User } from './user.ts';
 
 let users: Array<User> = [

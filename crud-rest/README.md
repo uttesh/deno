@@ -9,7 +9,7 @@ its simple deno crud REST sample, we are doing the CRUD operation on the list in
 > deno run --allow-net  app.ts
 ```
 
-## access and POSTMAN
+## access and postman test
 
 sample will be running on 4000 port.
 

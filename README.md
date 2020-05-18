@@ -39,7 +39,7 @@ Run Helloworld.ts
 ```
 Passing the *--allow-net* flag is required because deno is secure by default.
 
-## Availbale Deafult Modules/Libraries by default
+## Availbale Default Modules/Libraries by default
  
  <a href="https://deno.land/std/">library list</a>
 

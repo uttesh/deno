@@ -1,10 +1,10 @@
 
-import {Application,Router} from 'https://deno.land/x/oak/mod.ts'
+import {Application,Router} from './modules.ts'
 
 export class RouteHandler {
 
-  private app: Application;
-  private router: Router;
+  app: Application;
+  router: Router;
 
   constructor(app:Application){
     this.app = app;

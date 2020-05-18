@@ -1,5 +1,5 @@
-import {Application, Router} from 'https://deno.land/x/oak/mod.ts'
-import {RouteHandler} from './rounter.handler.ts'
+import {Application} from './modules.ts'
+import {RouteHandler} from './rounte.handler.ts'
 import {UserController} from './user.controller.ts'
 
 const app = new Application()
