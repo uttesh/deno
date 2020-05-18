@@ -1,6 +1,7 @@
 # CRUD Sample
-<img src="https://denolib.github.io/high-res-deno-logo/deno_hr_circle.png" alt="logo" style="margin-left:50%" width="300"/>
-
+<p align="center">
+<img src="https://github.com/denolib/animated-deno-logo/blob/master/deno-circle-12fps.gif" alt="logo" style="margin-left:50%" width="300"/>
+</p>
 its simple deno crud REST sample, we are doing the CRUD operation on the list instead any database.
 
 ## run
